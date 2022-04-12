@@ -17,7 +17,7 @@ public class hw2 {
             // this is where I am leaving off for now as I am in class
             // Find out a way to read in multiple objects and place it in the arraylist of objects created
             // if I can do that, I can create a sort of zipper arraylist where I can solve the question the problem is asking for simply
-
+            System.out.println(stdin.next());
 
 
         }
